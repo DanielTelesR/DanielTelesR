@@ -13,7 +13,7 @@
 </ul>
   
 <h2> 👨‍💻 Contact me!</h2>
-<p> <b> I'm looking forward to hear from you. Currently, I'm looking <br>
+<p> <b> I'm looking forward to hearing from you. Currently, I'm looking <br>
   for my first opportunity in the IT area.</b> <p>
 
 <!---
