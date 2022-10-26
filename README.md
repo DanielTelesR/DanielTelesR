@@ -1,4 +1,4 @@
-<h1> 🙋‍Hi! I'm Daniel Teles, a &lt;Front-End developer&gt;. </h1>
+<h1> 🙋‍♂️Hi! I'm Daniel Teles, a &lt;Front-End developer&gt;. </h1>
 
 <h2> About me </h2>
 <p> <b>I'm always looking to improve my knowledge of new technologies, and I love how they can simplify our lives.<br>
