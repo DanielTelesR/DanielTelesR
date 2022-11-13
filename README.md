@@ -13,8 +13,8 @@
 </ul>
   
 <h2> 👨‍💻 Contact me!</h2>
-<p> <b> I'm looking forward to hearing from you. Currently, I'm looking <br>
-  for my first opportunity as a Web Developer.</b> <p>
+<p> <b> I'm looking forward to hearing from you. Currently, I'm seeking <br>
+   my first opportunity as a Front-End Developer.</b> <p>
 
 <!---
 DanielTelesR/DanielTelesR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
