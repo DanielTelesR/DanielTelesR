@@ -1,8 +1,7 @@
 <h1> 🙋‍♂️Hi! I'm Daniel Teles, a &lt;Front-End developer&gt;. </h1>
 
 <h2> About me </h2>
-<p> <b>I'm always looking to improve my knowledge of new technologies, and I love how they can simplify our lives.<br>
-    Using JavaScript, HTML, CSS, and other frameworks, I build interactive and attractive Websites. </b></p>
+<p> <b>Passionate about solving problems through programming, I develop efficient and user-friendly Web Applications for companies.</b></p>
 
 <h2> My Skills </h2>
 <ul>
@@ -13,9 +12,8 @@
   <li> ✨ Git/Github. </li>
 </ul>
   
-<h2> 👨‍💻 Contact me!</h2>
-<p> <b> I'm looking forward to hearing from you. Currently, I'm seeking <br>
-   my first opportunity as a Front-End Developer.</b> <p>
+<h2> 👨‍💻 Contact me</h2>
+<p> <b> I'm looking forward to hearing from you.</b> <p>
 
 <!---
 DanielTelesR/DanielTelesR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
