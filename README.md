@@ -13,7 +13,7 @@
 </ul>
   
 <h2> 👨‍💻 Contact me</h2>
-<p> <b> I'm looking forward to hearing from you.</b> <p>
+<p> <b> Please feel free to email me at danieltelesrib@gmail.com. I look forward to exploring new opportunities.</b> <p>
 
 <!---
 DanielTelesR/DanielTelesR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
