@@ -1,15 +1,17 @@
-<h1> 🙋‍♂️Hi! I'm Daniel Teles, a &lt;Front-End developer&gt;. </h1>
+<h1> 🙋‍♂️Hi! I'm Daniel Teles, a &lt;Junior Full Stack Developer&gt;. </h1>
 
 <h2> About me </h2>
 <p> <b>Passionate about solving problems through programming, I develop efficient and user-friendly Web Applications for companies.</b></p>
 
 <h2> My Skills </h2>
 <ul>
+  <li> ✨ JavaScript; </li>
+  <li> ✨ Node.js; </li>
   <li> ✨ HTML; </li>
   <li> ✨ CSS; </li>
   <li> ✨ Bootstrap; </li>
-  <li> ✨ JavaScript; </li>
   <li> ✨ Git/Github. </li>
+  <li> ✨ Figma; </li>
 </ul>
   
 <h2> 👨‍💻 Contact me</h2>
