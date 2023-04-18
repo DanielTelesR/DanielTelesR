@@ -1,5 +1,3 @@
-<h1> 🙋‍♂️Hi! I'm Daniel Teles, a &lt;Junior Full Stack Developer&gt;. </h1>
-
 <h2> About me </h2>
 <p> <b>Passionate about solving problems through programming, I develop efficient and user-friendly Web Applications for companies.</b></p>
 
