@@ -1,4 +1,4 @@
-<h2> About me </h2>
+<h1> About me </h1>
 <p> <b>Passionate about solving problems through programming, I develop efficient and user-friendly Web Applications for companies.</b></p>
 
 <h2> My Skills </h2>
